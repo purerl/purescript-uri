@@ -1,0 +1,13 @@
+{
+    "name": "uri",
+    "set": "erl-0.10.7",
+    "source": "https://github.com/purerl/package-sets.git",
+    "depends": [
+        "unfoldable",
+        "string-parsers",
+        "pathy",
+        "maps",
+        "integers",
+        "globals"
+    ]
+}
